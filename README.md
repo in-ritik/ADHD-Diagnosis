@@ -14,7 +14,7 @@ A machine learning web app that uses a Logistic Regression model trained on Conn
 *   **Validation**: Checks predictions against actual labels if provided.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/69a61090-d0b8-4553-b07c-dc4d7d8aa885" width="600"/><br/>
+  <img src="https://github.com/user-attachments/assets/6e5e93ec-be11-43e3-9e09-f553ffe6e42f" width="600"/><br/>
   <em>Interactive Streamlit Application</em>
 </p>
 
